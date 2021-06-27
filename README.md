@@ -1,6 +1,6 @@
 # dtmoney
-#Financial Website#
-#🚀 Technologies#
+Financial Website
+🚀 Technologies
 This project was made using the follow technologies:
 
 Typescript
